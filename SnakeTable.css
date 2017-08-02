@@ -1,0 +1,23 @@
+#table{
+    width: 800px;
+    height: 800px;
+    border: 2px solid black;
+    margin: auto;
+}
+div{
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+}
+#reiniciar{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+.snake{
+    background-color: red;
+}
+.alimento{
+    background-color: greenyellow;
+}
